@@ -17,7 +17,6 @@ public class ArrayList <E> extends AbstractList<E>{
             for (int i = 0; i < this.arr.length; i++) arr[i] = this.arr[i];
             //可以使用下面这个方法，效率更高
             //System.arraycopy(this.arr, 0, arr, 0, arr.length);
-
             this.arr = arr;
         }
         int i = size - 1;

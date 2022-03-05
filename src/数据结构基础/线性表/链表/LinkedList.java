@@ -30,16 +30,22 @@ public class LinkedList<E> extends AbstractList<E>{
     public E remove(int index) {
         if(index > size -1) throw new IllegalArgumentException("非法的删除位置");
         Node<E> node = head,temp;
-        for (int i = 0; i < index; i++) {
+        for (int i = 0; i < index; i++) node = node.next;
+        temp = node.next;
+        node.next = node.next.next;
+        size--;
+        return temp.e;
 
-        }
-        return null;
     }
 
     @Override
     public E get(int index) {
-        return null;
+        if (index >= size ) throw new IndexOutOfBoundsException("无法访问到下标位置");
+        Node<E> node = head.next;
+        for (int i = 0; i < index; i++) node = node.next;
+        return node.e;
     }
+
     private static class Node<E>{
         private E e;
         private Node<E> next;
@@ -56,8 +62,8 @@ public class LinkedList<E> extends AbstractList<E>{
         LinkedList<String> list = new LinkedList<>();
         list.add("A",0);
         list.add("B",0);
-//        list.remove(0);
-//        System.out.println(list.get(0));
+        //list.remove(0);
+        System.out.println(list.get(1));
         System.out.println("debug");
     }
 }

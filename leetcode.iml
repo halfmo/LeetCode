@@ -8,6 +8,35 @@
       <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/线性表/链表" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/线性表/队列" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/线性表/顺序表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/二叉树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/202.快乐数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/203.移除链表元素" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/206.反转链表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/242.有效的字母异位词" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/27.移除元素" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/344.反转字符串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/349.两个数字的交集" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/383.赎金信" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/541.反转字符串Ⅱ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/704.二分查找" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/977.有序数组的平方" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/142.环形链表Ⅱ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/15.三数之和" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/151.翻转字符串里的单词" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/18.四数之和" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/19.删除链表的倒数第N个节点" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/209.长度最小的子数组" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/24.两两交换链表中的节点" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/454.四数相加Ⅱ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/59.螺旋矩阵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/707.设计链表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/剑指 Offer/05.替换空格" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/剑指 Offer/58-Ⅱ.左旋转字符串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/快速查找/二叉排序树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/快速查找/哈希表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/快速查找/平衡二叉树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/快速查找/红黑树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/面试题/02.07.链表相交" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

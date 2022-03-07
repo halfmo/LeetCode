@@ -37,6 +37,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/快速查找/平衡二叉树" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/快速查找/红黑树" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/面试题/02.07.链表相交" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/1047.删除字符串中的所有相邻重复项" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/20.有效的括号" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/225.用队列实现栈" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/232.用栈实现队列" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

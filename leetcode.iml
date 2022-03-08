@@ -41,6 +41,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/20.有效的括号" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/225.用队列实现栈" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/232.用栈实现队列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Hard/239.滑动窗口最大值" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/150.逆波兰表达式求值" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -43,6 +43,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/232.用栈实现队列" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Hard/239.滑动窗口最大值" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/150.逆波兰表达式求值" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/144.二叉树的前序遍历" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/145.二叉树的后续遍历" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/94.二叉树的中序遍历" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

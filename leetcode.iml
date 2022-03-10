@@ -46,6 +46,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/144.二叉树的前序遍历" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/145.二叉树的后续遍历" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/94.二叉树的中序遍历" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/102.二叉树的层序遍历" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/107.二叉树的层序遍历Ⅱ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/637.二叉树的层平均值" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/199.二叉树的右视图" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/429.N叉树的层序遍历" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/515.在每个树行中找最大值" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tool" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

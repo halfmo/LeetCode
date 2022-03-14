@@ -28,5 +28,6 @@ public class ArrayStack<E> extends AbstractStack<E>{
         list.push("B");
         list.pop();
         System.out.println("debug");
+        System.out.println(857%10);
     }
 }

@@ -59,6 +59,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/515.在每个树行中找最大值" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/tool" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/数据结构基础/KMP算法（简单）" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/599.两个列表的最小索引总和" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/2.两数相加" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

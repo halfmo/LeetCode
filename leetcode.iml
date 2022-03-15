@@ -64,6 +64,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/14.最长公共前缀" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/9.回文数" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/2.两数相加" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/2044.统计按位或能得到最大值的子集数目" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

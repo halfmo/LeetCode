@@ -29,7 +29,43 @@ public class MaxDepthS {
             }
             level++;
         }
-
         return level;
     }
+    //递归方式
+//    public int maxdepth(TreeNode root){
+//          if (root == null){
+//              return 0;
+//          }
+//          int leftdepth = maxdepth(root.left);
+//          int rightdepth = maxdepth(root.right);
+//          return Math.max(leftdepth,rightdepth)+1;
+//
+//    }
+
+    /*
+    int result;
+    void getDepth(TreeNode node, int depth){
+        result = depth > result? depth : result;//中
+
+        if(node.left == null && node.right == null) return;
+        if(node.left){
+            depth++;
+            getDepth(node.left,depth);
+            depth--;
+        }
+        if(node.right){
+            depth++;
+            getDepth(node.right, depth);
+            depth--;
+        }
+        return ;
+    }
+    int maxDepth(TreeNode* root) {
+        result = 0;
+        if (root == NULL) return result;
+        getDepth(root, 1);
+        return result;
+    }
+};
+     */
 }

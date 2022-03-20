@@ -75,6 +75,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/257.二叉树的所有路径" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/572.另一棵树的子树" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/222.完全二叉树的节点个数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/404.左叶子之和" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/513.找树左下角的值" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

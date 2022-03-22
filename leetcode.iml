@@ -77,6 +77,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/222.完全二叉树的节点个数" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/404.左叶子之和" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/513.找树左下角的值" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/112.路径总和" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/617.合并二叉树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/98.验证二叉搜索树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/105.从前序与中序遍历序列构造二叉树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/106.从中序与后序遍历序列构造二叉树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/113.路径总和Ⅱ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/654.最大二叉树" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

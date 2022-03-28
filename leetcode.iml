@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module">
+    <option name="configuration">
+      <map />
+    </option>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -84,6 +89,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/106.从中序与后序遍历序列构造二叉树" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/113.路径总和Ⅱ" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/654.最大二叉树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java基础/线程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java基础/输入输出" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java基础/小测试" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/700.二叉搜索树中的搜索" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

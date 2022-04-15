@@ -84,7 +84,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/513.找树左下角的值" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/112.路径总和" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/617.合并二叉树" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Easy/98.验证二叉搜索树" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/105.从前序与中序遍历序列构造二叉树" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/106.从中序与后序遍历序列构造二叉树" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/113.路径总和Ⅱ" isTestSource="false" />
@@ -92,7 +91,26 @@
       <sourceFolder url="file://$MODULE_DIR$/src/java基础/线程" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/java基础/输入输出" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/java基础/小测试" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/530.二叉搜索树的最小绝对差" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/700.二叉搜索树中的搜索" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/98.验证二叉搜索树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/136.只出现一次的数字" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/1863.找出所有子集的异或综合再求和" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/191.位1的个数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/231.2的幂" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/342.4的幂" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/461.汉明距离" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/693.交替位二进制数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/371.两整数之和" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/面试题/16.01.交换数字" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/21.合并两个有序链表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/501.二叉搜索数中的众数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Hard/42.接雨水" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/235.二叉搜索数的最近公共祖先" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/357.统计各位数字都不同的数字个数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/701.二叉搜索树中的插入操作" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/806.写字符串需要的行数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/128.最长连续序列" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

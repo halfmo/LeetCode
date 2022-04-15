@@ -67,6 +67,4 @@ public class isSameTreeS {
       }
       return queue1.isEmpty() && queue2.isEmpty();
   }
-
-
 }

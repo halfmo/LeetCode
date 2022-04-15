@@ -23,11 +23,13 @@ public class ArrayStack<E> extends AbstractStack<E>{
 
     }
     public static void main(String[] args){
-        ArrayStack<String> list = new ArrayStack<>();
-        list.push("A");
-        list.push("B");
-        list.pop();
-        System.out.println("debug");
-        System.out.println(857%10);
+//        ArrayStack<String> list = new ArrayStack<>();
+//        list.push("A");
+//        list.push("B");
+//        list.pop();
+//        System.out.println("debug");
+//        System.out.println(857%10);
+        System.out.println(1<<5);
+        System.out.println(1&(1<<2));
     }
 }

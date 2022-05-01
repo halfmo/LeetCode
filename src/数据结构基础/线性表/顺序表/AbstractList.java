@@ -29,4 +29,8 @@ public abstract class AbstractList<E> {
      * @return 元素
      */
     public abstract E get(int index);
+
+  public abstract void removeLast();
+
+    public abstract <E> void add(E i);
 }

@@ -16,9 +16,13 @@ public class LinkedList<E> extends AbstractList<E>{
      */
     @Override
     public void add(E e, int index) {
-        if(index > size)throw new IllegalArgumentException("非法插入位置 ");
+        if(index > size) {
+          throw new IllegalArgumentException("非法插入位置 ");
+        }
         Node<E> node = head, temp;
-        for (int i = 0; i < index; i++) node = node.next;
+        for (int i = 0; i < index; i++) {
+          node = node.next;
+        }
         temp = node.next;
         node.next = new Node<>(e);
         node.next.next = temp;
@@ -28,9 +32,13 @@ public class LinkedList<E> extends AbstractList<E>{
 
     @Override
     public E remove(int index) {
-        if(index > size -1) throw new IllegalArgumentException("非法的删除位置");
+        if(index > size -1) {
+          throw new IllegalArgumentException("非法的删除位置");
+        }
         Node<E> node = head,temp;
-        for (int i = 0; i < index; i++) node = node.next;
+        for (int i = 0; i < index; i++) {
+          node = node.next;
+        }
         temp = node.next;
         node.next = node.next.next;
         size--;
@@ -40,13 +48,27 @@ public class LinkedList<E> extends AbstractList<E>{
 
     @Override
     public E get(int index) {
-        if (index >= size ) throw new IndexOutOfBoundsException("无法访问到下标位置");
+        if (index >= size ) {
+          throw new IndexOutOfBoundsException("无法访问到下标位置");
+        }
         Node<E> node = head.next;
-        for (int i = 0; i < index; i++) node = node.next;
+        for (int i = 0; i < index; i++) {
+          node = node.next;
+        }
         return node.e;
     }
 
-    private static class Node<E>{
+  @Override
+  public void removeLast() {
+
+  }
+
+  @Override
+  public <E1> void add(E1 i) {
+
+  }
+
+  private static class Node<E>{
         private E e;
         private Node<E> next;
         public Node(E e){

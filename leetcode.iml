@@ -111,6 +111,16 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/701.二叉搜索树中的插入操作" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Easy/806.写字符串需要的行数" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/128.最长连续序列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/450.删除二叉搜索树中的节点" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Easy/108.将有序数组转换为二叉搜索树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/538.把二叉搜索树转换为累加树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/669.修剪二叉搜索树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/77.组合" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/216.组合综合Ⅲ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/17.电话号码的字母组合" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/39.组合总和" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/40.组合总和Ⅱ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/131.分割回文串" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

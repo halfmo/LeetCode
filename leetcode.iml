@@ -122,6 +122,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/40.组合总和Ⅱ" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/131.分割回文串" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/78.子集" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Medium/90.子集Ⅱ" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Medium/93.复原IP地址" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
